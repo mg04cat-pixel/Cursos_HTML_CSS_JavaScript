@@ -16,18 +16,6 @@ Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará exercícios,
 - Estruturas de Controle: Condicionais (if/else, switch) e laços de repetição (for, while).
 - Orientação a Objetos (POO): Classes, objetos, herança, polimorfismo e encapsulamento.
 
-📁 **Estrutura do Repositório**
-
-.
-├── html-css/          
-│   ├── exercicios/    # Exercícios e páginas de Front-end
-│   └── projetos/      # Landing pages e pequenos sites
-│
-└── java/              # Algoritmos e conceitos de POO
-    ├── fundamentos/   # Exercícios de lógica de programação
-    └── poo/           # Projetos aplicando Orientação a Objetos
-
-
 🚀 **Como Executar os Projetos**
 
 Páginas HTML/CSS:
